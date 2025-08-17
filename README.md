@@ -1,7 +1,3 @@
-Of course. Here is a comprehensive README file for your project. You can copy and paste the content directly into your README.md file on GitHub.
-
-Markdown
-
 # Emergent: A Causal Site Numerical Suite
 
 This repository contains the official numerical suite for the paper series "A Parameter-Free Causal Theory of Spacetime and Matter." It provides a full, end-to-end Python pipeline for generating finite causal sites, simulating their deterministic evolution, and deriving falsifiable, first-principles predictions for low-energy physics.
